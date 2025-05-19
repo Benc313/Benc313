@@ -1,13 +1,24 @@
 
 <h1 align = "center">Hi, I'm Bence</h1>
-<h2 align = "center">Welcome to my GitHub page</h2>
-<h2 align="center">
-  I'm a Backend Developer wannabe
-</h2>
+<h2 align = "center">Aspiring Backend Developer</h2>
 
 <div align="center">
  <img alt="GIF" src="https://media4.giphy.com/media/11KzOet1ElBDz2/giphy.gif?cid=6c09b952ufa3xxbbm0mpuadm2zaik3wjp4m9luz2ly0lyz8d&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" />
 </div>
+
+## Skills
+
+- C#
+- .NET
+- ASP.NET
+- MySQL
+- Git
+
+## Featured Projects
+
+- [**IrcServer**](https://github.com/Benc313/IrcServer): A C# implementation of a basic IRC server, demonstrating network programming and client-server architecture.
+- [**ExpenseTracker**](https://github.com/Benc313/ExpenseTracker): A C# application for managing personal expenses, utilizing .NET backend.
+
 
 <div style="text-align:center">
 <h2>Here are some sad stats</h2>
