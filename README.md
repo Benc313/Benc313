@@ -11,7 +11,6 @@
 - C#
 - .NET
 - ASP.NET
-- MySQL
 - Git
 
 ## Featured Projects
