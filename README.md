@@ -13,12 +13,6 @@
 - ASP.NET
 - Git
 
-## Featured Projects
-
-- [**IrcServer**](https://github.com/Benc313/IrcServer): A C# implementation of a basic IRC server, demonstrating network programming and client-server architecture.
-- [**ExpenseTracker**](https://github.com/Benc313/ExpenseTracker): A C# application for managing personal expenses, utilizing .NET backend.
-
-
 <div style="text-align:center">
 <h2>Here are some sad stats</h2>
 <img src = "https://github-readme-streak-stats.herokuapp.com?user=Benc313&theme=dark&mode=weekly"/>
